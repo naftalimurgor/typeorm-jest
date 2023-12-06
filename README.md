@@ -10,6 +10,6 @@ Steps to run this project:
 https://www.npmjs.com/package/@golevelup/ts-jest
 
 ```typescript
-import {createMock} from ''@golevelup/ts-jest'
-createMock<Entity>()
+import {createMock} from '@golevelup/ts-jest'
+createMock<Entity>({})
 ```
